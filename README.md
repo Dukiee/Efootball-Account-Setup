@@ -21,12 +21,16 @@ A Guide on how to download and set your efootball account
 
 ### The eFootball App on playstore
 
-![eFootball App Playstore](<img width="554" height="554" alt="efootbal-app-on-playstore" src="https://github.com/user-attachments/assets/ec5e3276-619f-42a7-9378-69c29a0f2050" />g)
+![eFootball App Playstore](<img width="554" height="554" alt="efootbal-app-on-playstore" src="https://github.com/user-attachments/assets/955c29d3-d430-4380-bf53-c5bc49eaf5bc" />
+)
+
 ### Opening the eFootball app
 
-![eFootball App](image/<img width="1612" height="720" alt="efootballloading" src="https://github.com/user-attachments/assets/fe71178d-7db3-464e-a710-61306516582d" />
+![eFootball App](<img width="1612" height="720" alt="efootballloading" src="https://github.com/user-attachments/assets/72aeaa00-14b6-4b3f-a755-d2db6489da41" />
+)
 
 ### eFootball home page after setup
 
-![eFootball home](<img width="1612" height="720" alt="Efootbalhome" src="https://github.com/user-attachments/assets/6491ce3a-1f37-41e2-9138-ae0f105f716e" />)
+![eFootball home](<img width="1612" height="720" alt="Efootbalhome" src="https://github.com/user-attachments/assets/4998e466-2eb0-4ca4-81c4-f90aae49cf80" />
+)
 
