@@ -29,6 +29,8 @@ A Guide on how to download and set your efootball account
 ![eFootball App](<img width="1612" height="720" alt="efootballloading" src="https://github.com/user-attachments/assets/72aeaa00-14b6-4b3f-a755-d2db6489da41" />
 )
 
+![eFootball App](images/efootball-home.png)
+
 ### eFootball home page after setup
 
 ![eFootball home](<img width="1612" height="720" alt="Efootbalhome" src="https://github.com/user-attachments/assets/4998e466-2eb0-4ca4-81c4-f90aae49cf80" />
