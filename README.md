@@ -17,6 +17,21 @@ A Guide on how to download and set your efootball account
 - **Choose your username.**
 - **Download the necessary data** and you're good to go!
 
+## Phone requirments
+
+### Android Requirements for eFootball
+- Android: 7.0 or higher
+- RAM: 2 GB minimum
+- Processor: 64-bit ARM quad-core, 1.5 GHz+
+- Free storage: Keep several GB (4 GB) available for the gameplay and updates
+
+### iOS Requirements for eFootball
+- iOS: 15.0 or later
+- Device: iPhone 8 or newer
+- RAM: 2 GB minimum
+- Free storage: Several GB recommended for the game and updates
+- Internet: Required
+
 ## Usage Examples
 
 ### The eFootball App on playstore
