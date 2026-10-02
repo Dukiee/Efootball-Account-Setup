@@ -19,14 +19,14 @@ A Guide on how to download and set your efootball account
 
 ## Usage Examples
 
-### Opening the App
+### The eFootball App on playstore
 
-![eFootball App](images/efootball-home.png)
+![eFootball App Playstore](<img width="554" height="554" alt="efootbal-app-on-playstore" src="https://github.com/user-attachments/assets/ec5e3276-619f-42a7-9378-69c29a0f2050" />g)
+### Opening the eFootball app
 
-### Selecting Your Language
+![eFootball App](image/<img width="1612" height="720" alt="efootballloading" src="https://github.com/user-attachments/assets/fe71178d-7db3-464e-a710-61306516582d" />
 
-![Language Selection](images/language-selection.png)
+### eFootball home page after setup
 
-### Choosing Your Country/Region
+![eFootball home](<img width="1612" height="720" alt="Efootbalhome" src="https://github.com/user-attachments/assets/6491ce3a-1f37-41e2-9138-ae0f105f716e" />)
 
-![Country Selection](images/country-selection.png)
